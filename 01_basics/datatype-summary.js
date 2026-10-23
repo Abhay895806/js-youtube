@@ -28,3 +28,9 @@ const myfunction = function(){
 }
 
 console.log(typeof id);
+
+
+
+//++++++++++++++++++++++++++++++++
+
+//Stack (primitive),Heap(non primitive)
